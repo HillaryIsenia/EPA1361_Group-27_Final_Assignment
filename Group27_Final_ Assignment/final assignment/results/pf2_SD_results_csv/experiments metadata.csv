@@ -1,0 +1,53 @@
+A.0_ID flood wave shape,float64
+A.1_Bmax,float64
+A.1_Brate,object
+A.1_pfail,float64
+A.2_Bmax,float64
+A.2_Brate,object
+A.2_pfail,float64
+A.3_Bmax,float64
+A.3_Brate,object
+A.3_pfail,float64
+A.4_Bmax,float64
+A.4_Brate,object
+A.4_pfail,float64
+A.5_Bmax,float64
+A.5_Brate,object
+A.5_pfail,float64
+discount rate 0,object
+discount rate 1,object
+discount rate 2,object
+0_RfR 0,float64
+0_RfR 1,float64
+0_RfR 2,float64
+1_RfR 0,float64
+1_RfR 1,float64
+1_RfR 2,float64
+2_RfR 0,float64
+2_RfR 1,float64
+2_RfR 2,float64
+3_RfR 0,float64
+3_RfR 1,float64
+3_RfR 2,float64
+4_RfR 0,float64
+4_RfR 1,float64
+4_RfR 2,float64
+A.1_DikeIncrease 0,float64
+A.1_DikeIncrease 1,float64
+A.1_DikeIncrease 2,float64
+A.2_DikeIncrease 0,float64
+A.2_DikeIncrease 1,float64
+A.2_DikeIncrease 2,float64
+A.3_DikeIncrease 0,float64
+A.3_DikeIncrease 1,float64
+A.3_DikeIncrease 2,float64
+A.4_DikeIncrease 0,float64
+A.4_DikeIncrease 1,float64
+A.4_DikeIncrease 2,float64
+A.5_DikeIncrease 0,float64
+A.5_DikeIncrease 1,float64
+A.5_DikeIncrease 2,float64
+EWS_DaysToThreat,float64
+scenario,object
+policy,object
+model,object
